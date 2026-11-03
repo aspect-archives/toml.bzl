@@ -16,7 +16,3 @@ load("@toml.bzl", "toml")
 #   toml.encode_indent(repository_ctx, <obj>)
 #   toml.indent(repository_ctx, <text>)
 ```
-
-# Telemetry & privacy policy
-
-This ruleset collects limited usage data via [`tools_telemetry`](https://github.com/aspect-build/tools_telemetry), which is reported to Aspect Build Inc and governed by our [privacy policy](https://www.aspect.build/privacy-policy).
